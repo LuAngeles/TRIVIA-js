@@ -1,3 +1,5 @@
+img src se_aproximan_retos.png
+
 # _RETO: TRIVIA RELOADED_
 ## Día 2 en el Bootcamp
 ###### Generación 08
