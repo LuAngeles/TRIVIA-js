@@ -1,4 +1,4 @@
-!img src https://raw.githubusercontent.com/LuAngeles/TRIVIA-js/master/se_aproximan_retos.png
+img src https://raw.githubusercontent.com/LuAngeles/TRIVIA-js/master/se_aproximan_retos.png
 
 # _RETO: TRIVIA RELOADED_
 ## Día 2 en el Bootcamp
