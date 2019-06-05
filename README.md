@@ -1,4 +1,4 @@
-!img src [imagen] (documentos/GitHub/imagen.png)
+![] (documentos/GitHub/imagen.png)
 
 # _RETO: TRIVIA RELOADED_
 ## Día 2 en el Bootcamp
