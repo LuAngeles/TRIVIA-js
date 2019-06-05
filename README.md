@@ -1,6 +1,9 @@
 # _RETO: TRIVIA RELOADED_
 ## Día 2 en el Bootcamp
 ###### Generación 08
+###### _Squad 1_
+###### Guadalupe Isidro
+###### Silvia Trinidad
 
 La actividad a realizar en este reto es que, a partir de la Trivia de Pre-Admisión, se mejorará de la siguiente manera:
 
