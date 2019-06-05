@@ -1,4 +1,4 @@
-!(https://raw.githubusercontent.com/LuAngeles/TRIVIA-js/master/se_aproximan_retos.png)
+![se_aproximan_retos](https://raw.githubusercontent.com/LuAngeles/TRIVIA-js/master/se_aproximan_retos.png)
 
 # _RETO: TRIVIA RELOADED_
 ## Día 2 en el Bootcamp
